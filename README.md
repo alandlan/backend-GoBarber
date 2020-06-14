@@ -5,6 +5,8 @@
 - TypeScript (Ambiente de Dev)
 - TypeScript Node Dev (Ambiente de Dev)
 - ESlint (Ambiente de DEv)
+- Prettier
+- TypeOrm
 
 ## Conceitos Aplicados
 - OOP (interfaces, classes)
